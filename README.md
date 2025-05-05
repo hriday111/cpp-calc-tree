@@ -1,1 +1,1 @@
-# cpp-calc-tree
+# A C++ project repo for school labs
